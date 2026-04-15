@@ -7,12 +7,11 @@ Este repositório contém a resolução de exercícios do site [Udemy](https://w
 ## 🔗 Índice
 
 - [📂 Estrutura](#-estrutura)
-- [💻 Exercícios Resolvidos](#-exercícios-resolvidos)
 - [👩🏻‍💻 Tecnologia](#-tecnologia)
+- [💻 Exercícios Resolvidos](#-exercícios-resolvidos)
 - [📌 Observações](#-observações)
 
 ---
-
 ## 📂 Estrutura
 
 Os exercícios estão organizados conforme os conteúdos abordados no curso:
@@ -29,6 +28,7 @@ src/
 ## 👩🏻‍💻 Tecnologia
 
 - ☕ Java (JDK 19)
+
 ---
 
 ## 💻 Exercícios Resolvidos
