@@ -35,18 +35,20 @@ src/
 
 ### 🔹 Estrutura Sequencial
 
-| #  | Exercício                           | Código                                                                                                                                                     | Status |
-|----|-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| 01 | Estrutura Sequencial - Média Idades | [Ver código](https://github.com/jessicapasqualini/curso-logica-de-programacao-java-exercicios-propostos/blob/main/src/estrutura/sequencial/idade.java)     | 🟢     |
-| 02 | Estrutura Sequencial - Retângulo    | [Ver código](https://github.com/jessicapasqualini/curso-logica-de-programacao-java-exercicios-propostos/blob/main/src/estrutura/sequencial/retangulo.java) | 🟢     |
+| #  | Exercício    | Código                                                                                                                                                     | Status |
+|----|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| 01 | Média Idades | [Ver código](https://github.com/jessicapasqualini/curso-logica-de-programacao-java-exercicios-propostos/blob/main/src/estrutura/sequencial/idade.java)     | 🟢     |
+| 02 | Retângulo    | [Ver código](https://github.com/jessicapasqualini/curso-logica-de-programacao-java-exercicios-propostos/blob/main/src/estrutura/sequencial/retangulo.java) | 🟢     |
 
 ---
 
 ### 🔹 Estrutura Condicional
 
-| #  | Exercício | Código | Status |
-|----|-----------|--------|--------|
-| -- | Em breve  | —      | ⏳      |
+| #  | Exercício    | Código                                                                                                                                                        | Status |
+|----|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| 01 | Notas Aluno  | [Ver código](https://github.com/jessicapasqualini/curso-logica-de-programacao-java-exercicios-propostos/blob/main/src/estrutura/condicional/notasalunos.java) | 🟢     |
+| 02 | Menor Número | [Ver código](https://github.com/jessicapasqualini/curso-logica-de-programacao-java-exercicios-propostos/blob/main/src/estrutura/condicional/menornumero.java) | 🟢     |
+
 
 ---
 
