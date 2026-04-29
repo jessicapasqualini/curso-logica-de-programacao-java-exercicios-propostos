@@ -54,9 +54,9 @@ src/
 
 ### 🔹 Estrutura de Repetição
 
-| #  | Exercício | Código | Status |
-|----|-----------|--------|--------|
-| -- | Em breve  | —      | ⏳      |
+| #  | Exercício       | Código                                                                                                                                                         | Status |
+|----|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| 01 | Média de Idades | [Ver código](https://github.com/jessicapasqualini/curso-logica-de-programacao-java-exercicios-propostos/blob/main/src/estrutura/repetitiva/mediadeidades.java) | 🟢     |
 
 ---
 
