@@ -6,7 +6,7 @@ package estrutura.condicional;
 
 import java.util.Scanner;
 
-public class menornumero {
+public class MenorNumero {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

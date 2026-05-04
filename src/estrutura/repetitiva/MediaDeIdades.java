@@ -5,7 +5,7 @@ package estrutura.repetitiva;
  *
  * Faça um programa para ler um número indeterminado de dados, contendo cada um, a
  * idade de um indivíduo. O último dado, que não entrará nos cálculos, contém um valor
- * de idade negativa. Calcular e imprimir a idade média deste grupo de indivíduos. Se for
+ * de idade negativa. Calcular e imprimir a Idade média deste grupo de indivíduos. Se for
  * entrado um valor negativo na primeira vez, mostrar a mensagem "impossivel calcular".
  *
  */
@@ -13,7 +13,7 @@ package estrutura.repetitiva;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class mediadeidades {
+public class MediaDeIdades {
     public static void main(String[] args) {
 
         Locale.setDefault(Locale.US);

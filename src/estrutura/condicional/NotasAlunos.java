@@ -9,7 +9,7 @@ package estrutura.condicional;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class notasalunos {
+public class NotasAlunos {
     public static void main(String[] args) {
 
         Locale.setDefault(Locale.US);
